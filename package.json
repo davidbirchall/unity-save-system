@@ -1,0 +1,10 @@
+{
+  "name": "com.davidbirchall.savesystem",
+  "displayName": "Save System",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "A save/load system with prefabs and UI components.",
+  "author": {
+    "name": "David BIrchall"
+  }
+}
